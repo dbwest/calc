@@ -1,6 +1,6 @@
 # Project 1: "calc"
 
-2nd project for iLearn2020 course i20-T1-200 : Docker Awesome
+next project for iLearn2020 course i20-T1-200 : Docker Awesome
 A simple calculator web-app built in react
 
 Instructions:
